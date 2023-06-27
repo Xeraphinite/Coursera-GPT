@@ -1,34 +1,30 @@
-## Coursera-GPT
+# Coursera-GPT
 
-### 🚧 Under Construction 🚧
+**🚧 Under Construction 🚧**
 
-Help you to write a financial aid to apply a course in Coursera.
+让 ChatGPT 帮你写 Financial Aid Application!
 
-帮你写一份基于自身情况的 Financial Aid 申请 Coursera 的课程。
+Gradio APP: https://huggingface.co/spaces/Xeraphinite/Coursera-GPT
 
+你需要一个 **OpenAI API Key**, 如果你没有, 请参考 [bullet-waiting-for-me](https://)
 
-### CHANGELOG
+## 使用方法
 
+1. 
 
-### TODO
-1. (⭐⭐⭐) 将纯 OpenAI GPT Model 改成基于 Hugging Face 的模型选择，多点选择总不是坏处TT
-2. (⭐⭐⭐) 优化 Prompt, 当前 Prompt 仍然不太合理
-3. (⭐⭐) 撰写洋文 README.md
-4. (⭐⭐) 撰写 Change Log
-5. (⭐) 重写 Gradio 前端, 优化交互界面
-6. (⭐) 改写 Default Params 为 Examples
+### Information
 
-### Analysis
-
-#### Step 1
+#### Step 1 Background Information
 
 - **Education**：受教育程度，其中包括  High School, Some College, College Degree, Master’s/Advanced degree, Other
 - **Annual Income**：收入（当然，你都到申请 Financial Aid 的程度了那肯定是 0 了）
 - **Employment Status**：就业情况，分为 Full Time, Part Time, Unemployed, Student, Other
-- **Reason you applied for aid**: 你申请 Financial Aid 的理由，也就是基于
+- **Reason you applied for aid**: 你申请 Financial Aid 的理由，也就是 ChatGPT 写的东西.
 
-#### Step 2
+#### Step 2 Application Questions
 
-- ****
-- ****
+- **How much can you pay for your selected course?**: 你能为这门课程给多少钱?
+- **How will your selected course help with your goals?**: 你如何选择
+
+## CHANGELOG
 

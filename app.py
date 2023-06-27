@@ -80,4 +80,4 @@ if __name__ == '__main__':
             gr.Textbox(label="Reason you applied for aid", show_copy_button=True),
             gr.Textbox(label="How will your selected course help with your goals?", show_copy_button=True)
         ],
-    ).launch(share=True)
+    ).launch()
